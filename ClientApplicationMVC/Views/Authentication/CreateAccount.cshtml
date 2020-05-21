@@ -1,0 +1,57 @@
+﻿<!--
+    This is the html page that opens when a user navigates
+    to the create an account page
+-->
+@{
+    ViewBag.Title = "Create Account";
+}
+
+<script type="text/javascript" src="~/Scripts/Authentication/AuthenticationFunctions.js"></script>
+
+<h2>@ViewBag.Title</h2>
+
+<p>@ViewBag.Message</p>
+
+<!-- Form for user creating account in -->
+@using (Html.BeginForm("createAccountEntry", "Authentication", FormMethod.Post,
+    new { id = "createAccountForm", onsubmit = "return validateCreateAccountForm()" }))
+{
+
+    <label for="username"><b>Enter Your Username:</b></label>
+    <input type="text" placeholder="Enter Username" name="username" required>
+    <br />
+    <br />
+
+    <label for="password"><b>Enter Your Password:</b></label>
+    <input type="password" placeholder="Enter Password" name="password" required>
+    <br />
+    <br />
+
+    <label for="address"><b>Enter Your Address:</b></label>
+    <input type="text" placeholder="Enter Address" name="address" required>
+    <br />
+    <br />
+
+    <label for="phonenumber"><b>Enter Your Phone Number:</b></label>
+    <input type="tel" placeholder="Enter Your Phone Number" name="phonenumber" required>
+    <br />
+    <br />
+
+    <label for="email"><b>Enter Your Email Address:</b></label>
+    <input type="email" placeholder="Enter Your Email Address" name="email" required>
+    <br />
+    <br />
+
+    <label for="accountType">Select Your Account Type:</label>
+    <select id="accountType" name="accountType" required>
+        <option value="user">USER - User Account</option>
+        <option value="business">Business - Business Account</option>
+        <option value="notspecified">Not Specified Account</option>
+        </select>
+        <br/>
+        <button type="submit">Create Account</button>
+        <br />
+        <br />
+        <p id="response">@ViewBag.CreateAccountResponse</p>
+        <br />
+}

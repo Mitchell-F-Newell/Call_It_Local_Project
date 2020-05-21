@@ -1,0 +1,48 @@
+﻿<!-- CSS for stars -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    .checked {
+        color: #00b1fc;
+    }
+</style>
+@{
+    ViewBag.Title = "Display Review";
+}
+
+@if (ViewBag.CompanyExists)
+{
+    <div style="clear:both">
+        <h2 style="float:left" id="CompanyNameDisplay">@ViewBag.CompanyName</h2>
+    </div>
+
+    <div style="clear:both">
+        <h3 style="float:left">Average Rating: @ViewBag.AvgStars</h3>
+    </div>
+
+    <br /><br /><br /><br />
+
+    if (ViewBag.ReviewList != null)
+    {
+        foreach (var review in ViewBag.ReviewList)
+        {
+            <h4>@review.username</h4>
+            for (int i = 0; i < review.stars; i++)
+            {
+            <span class="fa fa-star checked"></span>
+            }
+            for (int i = 5; i > review.stars; i--)
+            {
+                <span class="fa fa-star"></span>
+            }
+            <p>@review.review</p>
+            <h5>Timestamp: @review.timestamp</h5>
+            <br />
+        }
+    }
+}
+else
+{
+    <br />
+    <h2>Company: @ViewBag.CompanyName does not exist</h2>
+}
+<br />

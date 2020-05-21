@@ -1,0 +1,98 @@
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\ApplicationInsights.config
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\ClientApplicationMVC.dll.config
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\ClientApplicationMVC.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\ClientApplicationMVC.pdb
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Antlr3.Runtime.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.Web.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Newtonsoft.Json.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.Helpers.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.Mvc.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.Optimization.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.Razor.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\WebGrease.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\NServiceBus.Core.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\MySql.Data.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Messages.pdb
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.Helpers.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.Mvc.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.Optimization.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.Razor.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Antlr3.Runtime.pdb
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Newtonsoft.Json.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.Web.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\NServiceBus.Core.pdb
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\NServiceBus.Core.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\bin\MySql.Data.xml
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\obj\Debug\ClientApplicationMVC.csprojResolveAssemblyReference.cache
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\obj\Debug\ClientApplicationMVC.csproj.CoreCompileInputs.cache
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\obj\Debug\ClientApplicationMVC.dll
+C:\Users\bosto\source\repos\Call It Local\ClientApplicationMVC\obj\Debug\ClientApplicationMVC.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\ApplicationInsights.config
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\ClientApplicationMVC.dll.config
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\ClientApplicationMVC.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\ClientApplicationMVC.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Antlr3.Runtime.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Messages.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.Web.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Newtonsoft.Json.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.Helpers.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.Mvc.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.Optimization.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.Razor.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\WebGrease.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\NServiceBus.Core.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\MySql.Data.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Messages.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.Helpers.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.Mvc.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.Optimization.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.Razor.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Antlr3.Runtime.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Newtonsoft.Json.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\Microsoft.AI.Web.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\NServiceBus.Core.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\NServiceBus.Core.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\bin\MySql.Data.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\obj\Debug\ClientApplicationMVC.csprojAssemblyReference.cache
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\obj\Debug\ClientApplicationMVC.csproj.CopyComplete
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\obj\Debug\ClientApplicationMVC.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ClientApplicationMVC\obj\Debug\ClientApplicationMVC.pdb

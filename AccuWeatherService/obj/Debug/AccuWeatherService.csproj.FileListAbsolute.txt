@@ -1,0 +1,32 @@
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\AccuWeatherService.exe.config
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\AccuWeatherService.exe
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\AccuWeatherService.pdb
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\MySql.Data.dll
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\Messages.pdb
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\MySql.Data.xml
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\obj\Debug\AccuWeatherService.csprojResolveAssemblyReference.cache
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\obj\Debug\AccuWeatherService.csproj.CoreCompileInputs.cache
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\obj\Debug\AccuWeatherService.exe
+C:\Users\bosto\source\repos\Call It Local\AccuWeatherService\obj\Debug\AccuWeatherService.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\AccuWeatherService.exe.config
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\AccuWeatherService.exe
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\AccuWeatherService.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\Messages.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\MySql.Data.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\Messages.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\MySql.Data.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\obj\Debug\AccuWeatherService.csprojAssemblyReference.cache
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\obj\Debug\AccuWeatherService.csproj.CopyComplete
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\obj\Debug\AccuWeatherService.exe
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\obj\Debug\AccuWeatherService.pdb

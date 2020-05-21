@@ -1,0 +1,15 @@
+﻿2020-05-21 11:37:56.145 INFO  DefaultFactory Logging to 'C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\' with level Info
+2020-05-21 11:37:56.568 INFO  NServiceBus.LicenseManager Selected active license from HKEY_CURRENT_USER\SOFTWARE\ParticularSoftware
+License Expiration: 04 May 2018
+
+2020-05-21 11:37:56.654 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2020-05-21 12:37:30.347 INFO  DefaultFactory Logging to 'C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\' with level Info
+2020-05-21 12:37:31.351 INFO  NServiceBus.LicenseManager Selected active license from HKEY_CURRENT_USER\SOFTWARE\ParticularSoftware
+License Expiration: 04 May 2018
+
+2020-05-21 12:37:31.389 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2020-05-21 13:07:00.487 INFO  DefaultFactory Logging to 'C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AccuWeatherService\bin\Debug\' with level Info
+2020-05-21 13:07:00.960 INFO  NServiceBus.LicenseManager Selected active license from HKEY_CURRENT_USER\SOFTWARE\ParticularSoftware
+License Expiration: 04 May 2018
+
+2020-05-21 13:07:00.984 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.

@@ -1,0 +1,14 @@
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\EchoService.exe.config
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\EchoService.exe
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\EchoService.pdb
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\MySql.Data.dll
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\NServiceBus.Core.dll
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\Messages.pdb
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\MySql.Data.xml
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\NServiceBus.Core.pdb
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Release\NServiceBus.Core.xml
+C:\Users\bosto\source\repos\Call It Local\EchoService\obj\Release\EchoService.csprojResolveAssemblyReference.cache
+C:\Users\bosto\source\repos\Call It Local\EchoService\obj\Release\EchoService.csproj.CoreCompileInputs.cache
+C:\Users\bosto\source\repos\Call It Local\EchoService\obj\Release\EchoService.exe
+C:\Users\bosto\source\repos\Call It Local\EchoService\obj\Release\EchoService.pdb

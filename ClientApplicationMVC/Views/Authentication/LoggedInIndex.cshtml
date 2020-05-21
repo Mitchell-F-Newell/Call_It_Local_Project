@@ -1,0 +1,23 @@
+﻿<!--
+    This is the html page that opens when a user navigates or is redirected
+    to the log in page
+-->
+
+<script type="text/javascript" src="~/Scripts/Authentication/AuthenticationFunctions.js"></script>
+
+@{
+    ViewBag.Title = "Logged In";
+}
+
+<h2>@ViewBag.Title</h2>
+<br />
+<p>@ViewBag.LoggedInMessage</p>
+<br />
+
+@using (Html.BeginForm("logOut", "Authentication", FormMethod.Post))
+    { 
+    <button type="submit">Log Out</button>
+    <br />
+    <br />
+    }
+<br />

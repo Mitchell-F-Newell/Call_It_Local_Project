@@ -1,0 +1,28 @@
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\EchoService.exe.config
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\EchoService.exe
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\EchoService.pdb
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\MySql.Data.dll
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\Messages.pdb
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\MySql.Data.xml
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\source\repos\Call It Local\EchoService\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\source\repos\Call It Local\EchoService\obj\Debug\EchoService.csprojResolveAssemblyReference.cache
+C:\Users\bosto\source\repos\Call It Local\EchoService\obj\Debug\EchoService.csproj.CoreCompileInputs.cache
+C:\Users\bosto\source\repos\Call It Local\EchoService\obj\Debug\EchoService.exe
+C:\Users\bosto\source\repos\Call It Local\EchoService\obj\Debug\EchoService.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\EchoService.exe.config
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\EchoService.exe
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\EchoService.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\Messages.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\MySql.Data.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\Messages.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\MySql.Data.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\obj\Debug\EchoService.csprojAssemblyReference.cache
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\obj\Debug\EchoService.csproj.CopyComplete
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\obj\Debug\EchoService.exe
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\EchoService\obj\Debug\EchoService.pdb

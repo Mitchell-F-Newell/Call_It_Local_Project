@@ -1,0 +1,34 @@
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\ChatService.exe.config
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\ChatService.exe
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\ChatService.pdb
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\MySql.Data.dll
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\NServiceBus.Callbacks.dll
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\Messages.pdb
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\MySql.Data.xml
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\NServiceBus.Callbacks.pdb
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\NServiceBus.Callbacks.xml
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\source\repos\Call It Local\ChatService\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\source\repos\Call It Local\ChatService\obj\Debug\ChatService.csproj.CoreCompileInputs.cache
+C:\Users\bosto\source\repos\Call It Local\ChatService\obj\Debug\ChatService.exe
+C:\Users\bosto\source\repos\Call It Local\ChatService\obj\Debug\ChatService.pdb
+C:\Users\bosto\source\repos\Call It Local\ChatService\obj\Debug\ChatService.csprojResolveAssemblyReference.cache
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\ChatService.exe.config
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\ChatService.exe
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\ChatService.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\Messages.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\MySql.Data.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\NServiceBus.Callbacks.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\Messages.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\MySql.Data.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\NServiceBus.Callbacks.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\NServiceBus.Callbacks.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\obj\Debug\ChatService.csprojAssemblyReference.cache
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\obj\Debug\ChatService.csproj.CopyComplete
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\obj\Debug\ChatService.exe
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\ChatService\obj\Debug\ChatService.pdb

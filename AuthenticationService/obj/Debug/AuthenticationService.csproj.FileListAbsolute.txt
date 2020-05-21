@@ -1,0 +1,38 @@
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\AuthenticationService.exe.config
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\AuthenticationService.exe
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\AuthenticationService.pdb
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\MySql.Data.dll
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Callbacks.dll
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\Messages.pdb
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\MySql.Data.xml
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Callbacks.pdb
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Callbacks.xml
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\obj\Debug\AuthenticationService.csprojResolveAssemblyReference.cache
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\obj\Debug\AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\obj\Debug\AuthenticationService.exe
+C:\Users\bosto\source\repos\Call It Local\AuthenticationService\obj\Debug\AuthenticationService.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\AuthenticationService.exe.config
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\AuthenticationService.exe
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\AuthenticationService.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\Messages.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\MySql.Data.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Callbacks.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\Messages.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\MySql.Data.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Callbacks.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Callbacks.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\obj\Debug\AuthenticationService.csprojAssemblyReference.cache
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\obj\Debug\AuthenticationService.csproj.CopyComplete
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\obj\Debug\AuthenticationService.exe
+C:\Users\bosto\Documents\U of C\Winter 2018\SENG 401\CALLITLOCAL_UPDATED\Call It Local\AuthenticationService\obj\Debug\AuthenticationService.pdb

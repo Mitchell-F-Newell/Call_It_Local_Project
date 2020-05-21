@@ -1,0 +1,17 @@
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\CompanyDirectory.exe.config
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\CompanyDirectory.exe
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\CompanyDirectory.pdb
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\MySql.Data.dll
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\NServiceBus.Callbacks.dll
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\NServiceBus.Core.dll
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\Messages.pdb
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\MySql.Data.xml
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\NServiceBus.Callbacks.pdb
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\NServiceBus.Callbacks.xml
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\NServiceBus.Core.pdb
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\bin\Release\NServiceBus.Core.xml
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\obj\Release\CompanyDirectoryService.csprojResolveAssemblyReference.cache
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\obj\Release\CompanyDirectoryService.csproj.CoreCompileInputs.cache
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\obj\Release\CompanyDirectory.exe
+C:\Users\bosto\source\repos\Call It Local\CompanyDirectory\obj\Release\CompanyDirectory.pdb

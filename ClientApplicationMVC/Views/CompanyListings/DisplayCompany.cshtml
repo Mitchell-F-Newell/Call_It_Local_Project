@@ -1,0 +1,76 @@
+﻿<link href="~/Content/ChatStyles.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="~/Scripts/CompanyListings/CompanyListingsFunctions.js"></script>
+
+<h2 id="CompanyNameDisplay">@ViewBag.CompanyName</h2>
+
+<br />
+<p>Email: @ViewBag.CompanyInfo.email</p>
+<br />
+<p>Phone Number: @ViewBag.CompanyInfo.phoneNumber</p>
+<br />
+<p>@ViewBag.CompanyName can be found at these locations:</p>
+<br />
+@foreach (string location in ViewBag.CompanyInfo.locations)
+{
+    <p style="padding-left:4em;">@location</p>
+    <br />
+}
+
+@if (ViewBag.AccuWeatherInfo != null)
+{
+    <div style="border-top:1px solid lightgrey; border-bottom:1px solid lightgrey">
+        
+        <h3 style="color:rebeccapurple">@ViewBag.AccuWeatherInfo.locationName</h3>
+        <h1>@ViewBag.AccuWeatherInfo.temperatureMetric &deg;</h1>
+        <p>RealFeel&reg; @ViewBag.AccuWeatherInfo.realFeelTemperatureMetric &deg;</p>
+        <h3>@ViewBag.AccuWeatherInfo.weatherText</h3>
+        <img src="https://developer.accuweather.com/sites/default/files/@(ViewBag.AccuWeatherInfo.weatherIcon)-s.png" />
+    </div>
+}
+else
+{
+    <p style="color:red">Could not retrieve weather information</p>
+}
+<br />
+
+@using (Html.BeginForm("SubmitReview", "CompanyListings", FormMethod.Get))
+{
+    <h4>Review @ViewBag.CompanyName</h4>
+    <input type="hidden" name="companyName" value="@ViewBag.CompanyName" />
+    <p>
+        <textarea name="review" placeholder="Enter your review here." rows="3"></textarea><br /><br />
+        Choose Your Rating
+
+        <div>
+            <input type="radio" name="stars" value="1" checked>1
+            <input type="radio" name="stars" value="2">2
+            <input type="radio" name="stars" value="3">3
+            <input type="radio" name="stars" value="4">4
+            <input type="radio" name="stars" value="5">5
+        </div>
+    </p>
+    <input type="submit" value="Submit Company Review" />
+}
+<h4>@ViewBag.ResponseStatus</h4>
+
+<br />
+
+<!-- Getter for reviews (redirects to new page) -->
+@using (Html.BeginForm("DisplayReviews", "CompanyListings", new { id = @ViewBag.CompanyName }, FormMethod.Get))
+{
+    <input type="submit" value="Get Reviews for @ViewBag.CompanyName" />
+}
+
+<br />
+
+<div style="height:100px">
+    <h4>Start a conversation with @ViewBag.CompanyName</h4>
+    <div style="width:400px; float:left">
+        <textarea class="messagetextarea" id="textUserMessage" placeholder="Enter your message here." rows="3"></textarea>
+    </div>
+    <div style="float:left">
+        <button class="sendbutton" id="SendMessageButton">Send</button>
+    </div>
+</div>
+<br /><br />
